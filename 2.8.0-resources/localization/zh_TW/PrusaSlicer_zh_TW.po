@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Slic3rPE\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-25 16:30+0200\n"
-"PO-Revision-Date: 2024-07-25 09:46+0800\n"
+"PO-Revision-Date: 2024-08-19 10:21+0800\n"
 "Last-Translator: e2d.tw <engineer2designer@gmail.com>\n"
 "Language-Team: \n"
 "Language: zh_TW\n"
@@ -690,7 +690,7 @@ msgstr "在 layer_gcode 中發現“G92 E0”，它與絕對擠出機定址不�
 
 #: src/libslic3r/Print.cpp:1013
 msgid "Generating skirt and brim"
-msgstr "生成側裙和帽緣"
+msgstr "生成側裙和帽邊"
 
 #: src/libslic3r/Print.cpp:1074
 msgid "Exporting G-code"
@@ -753,7 +753,7 @@ msgstr "考慮啟用支援。"
 
 #: src/libslic3r/Print.cpp:1437
 msgid "Also consider enabling brim."
-msgstr "還要考慮啟用帽簷。"
+msgstr "還要考慮啟用帽邊。"
 
 #. TRN Alert message for detected print issues. first argument is a list of detected issues.
 #: src/libslic3r/Print.cpp:1441
@@ -10017,23 +10017,23 @@ msgstr "浮雕"
 
 #: src/slic3r/GUI/Gizmos/GLGizmoEmboss.cpp:1042
 msgid "NORMAL"
-msgstr "一般"
+msgstr "NORMAL"
 
 #: src/slic3r/GUI/Gizmos/GLGizmoEmboss.cpp:1043
 msgid "SMALL"
-msgstr "手機"
+msgstr "SMALL"
 
 #: src/slic3r/GUI/Gizmos/GLGizmoEmboss.cpp:1044
 msgid "ITALIC"
-msgstr "斜體"
+msgstr "ITALIC"
 
 #: src/slic3r/GUI/Gizmos/GLGizmoEmboss.cpp:1045
 msgid "SWISS"
-msgstr "瑞士"
+msgstr "SWISS"
 
 #: src/slic3r/GUI/Gizmos/GLGizmoEmboss.cpp:1046
 msgid "MODERN"
-msgstr "現代"
+msgstr "MODERN"
 
 #: src/slic3r/GUI/Gizmos/GLGizmoEmboss.cpp:1082
 msgid "First font"
